@@ -1,0 +1,9 @@
+package ec.edu.epn.poo.lab4;
+
+public class Producto {
+	String nombre;     // atributos: el estado de cada objeto
+    double precio;
+    int stock;
+
+
+}
